@@ -1,0 +1,3 @@
+Ivan Petrov 2100.350098 28
+Vasil Dimitrov 1000.900024 12
+Stefan Stefanov 1523.250000 21
